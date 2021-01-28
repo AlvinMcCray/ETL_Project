@@ -1,0 +1,2 @@
+user = postgres
+pass = postgres
