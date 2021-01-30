@@ -1,4 +1,11 @@
-# ETL_Project
+# ETL_Project - JB Kinlacheeny, Alvin McCray
+## Datasets used: 
+1.	NBA Players stats since 1950. https://www.kaggle.com/drgilermo/nba-players-stats?select=Players.csv 
+2.	Social Power NBA. https://www.kaggle.com/noahgift/social-power-nba?select=nba_2017_twitter_players.csv
+
+# EXTRACT:
+
+
 Guidelines for ETL Project This document contains guidelines, requirements, and suggestions for Project 1.  
 
 Team Effort Due to the short timeline, teamwork will be crucial to the success of this project! Work closely with your team through all phases of the project to ensure that there are no surprises at the end of the week. 
