@@ -9,9 +9,9 @@
 
 # EXTRACT:
 
-![Images/ETL_1.png](Images/ETL_1.png)
+![images/ETL_1.png](images/ETL_1.png)
 
-![Images/ETL_2.png](Images/ETL_2.png)
+![images/ETL_2.png](images/ETL_2.png)
 
 
 Guidelines for ETL Project This document contains guidelines, requirements, and suggestions for Project 1.  
